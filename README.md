@@ -7,7 +7,7 @@ Welcome to the official repository for the **Robotics Team** at the Stanford AI4
 
 
 
-Alice
+Alice. I am Alice, a student working on robotics!
 
 ## 📌 Overview
 
