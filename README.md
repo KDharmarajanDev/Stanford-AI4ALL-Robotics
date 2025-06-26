@@ -1,7 +1,5 @@
 # Stanford-AI4ALL-Robotics
 
-I am updating the documentation
-
 Welcome to the official repository for the **Robotics Team** at the Stanford AI4ALL 2025 summer program! This repository contains project materials, code, datasets, and documentation used during the two-week AI4ALL camp.
 
 ## 📌 Overview
